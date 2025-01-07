@@ -10,7 +10,7 @@ Free Trial Oxylabs [private proxies](https://oxylabs.io/products/private-proxies
 
 ### What is a private proxy?
 
-A private proxy IP, also known as a personal proxy server, refers to a proxy type used only by one user at a given time. It’s not shared with anyone else, so you have full control over how and when this proxy is used. However, it also comes with higher prices compared to shared proxies.
+A private proxy IP, also known as a personal proxy server, refers to a proxy type used only by one user at a given time. It’s not shared with anyone else, so you have full control over how and when this proxy is used. However, it also comes with higher prices compared to shared proxies. Here is a detailed article on the [best private proxies](https://medium.com/@oxylabs.io/best-private-proxies-of-2024-a-detailed-guide-fd504cc08222) 
 
 
 ## Vast private proxy pool
