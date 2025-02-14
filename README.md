@@ -1,6 +1,6 @@
 # Private-proxies
 
-[![Private proxie banner](https://github.com/oxylabs/private-proxies/assets/103110131/8f809a87-2856-441f-ad17-f674395a0803)](https://oxylabs.io/products/private-proxies)
+[![Private proxie banner](https://github.com/oxylabs/private-proxies/assets/103110131/8f809a87-2856-441f-ad17-f674395a0803)](https://oxylabs.io/products/private-proxies?utm_source=877&utm_medium=affiliate&groupid=877&transaction_id=102a9b366b4ce6b06a3066dd99be4c)
 
 [![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
 
