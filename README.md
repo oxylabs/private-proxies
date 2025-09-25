@@ -2,7 +2,7 @@
 
 [![Private proxie banner](https://github.com/oxylabs/private-proxies/assets/103110131/8f809a87-2856-441f-ad17-f674395a0803)](https://oxylabs.io/products/private-proxies?utm_source=877&utm_medium=affiliate&groupid=877&transaction_id=102a9b366b4ce6b06a3066dd99be4c)
 
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
+[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
 
 Free Trial Oxylabs [private proxies](https://oxylabs.io/products/private-proxies) offer dedicated IP addresses for exclusive use, ensuring optimal privacy, security, and performance. Ideal for web scraping and data collection
