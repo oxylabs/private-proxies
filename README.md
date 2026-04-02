@@ -73,5 +73,5 @@ Travel fare aggregators rely on private proxies in their day-to-day tasks. Proxi
 Private proxies are also used to get pricing data (e.g., for MAP monitoring), buy limited edition products, and many other purposes.
 
 ## Contacts
-Email - hello@oxylabs.io
-<br><a href="https://oxylabs.drift.click/oxybot">Live chat</a>
+Email - support@oxylabs.io
+Or through live chat, accessible via [Oxylabs Dashboard](https://dashboard.oxylabs.io/en/)
