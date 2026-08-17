@@ -34,8 +34,7 @@ Face little to no risk of having your personal information compromised. Private 
 - Privacy & anonymity
 - Multiple protocols
 - 99.9% network uptime
-- 
-Exceptional support
+- Exceptional support
 
 
 # Unlock any target with Oxylabs private proxies
