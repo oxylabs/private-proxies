@@ -1,14 +1,14 @@
 # Private-proxies
 
-[![Private proxie banner](https://github.com/oxylabs/private-proxies/assets/103110131/8f809a87-2856-441f-ad17-f674395a0803)](https://oxylabs.io/products/private-proxies?utm_source=877&utm_medium=affiliate&groupid=877&transaction_id=102a9b366b4ce6b06a3066dd99be4c)
+[![Private proxie banner](https://github.com/oxylabs/private-proxies/assets/103110131/8f809a87-2856-441f-ad17-f674395a0803)](https://oxylabs.io/products/private-proxies?utm_source=github&utm_medium=referral&utm_content=private-proxies&utm_campaign=banner&groupid=877)
 
-<a href="https://oxylabs.io"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
+<a href="https://oxylabs.io/?utm_source=github&utm_medium=referral&utm_content=private-proxies&utm_campaign=banner&groupid=877"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
 <a href="https://developers.oxylabs.io"><img src="https://img.shields.io/badge/📚_Documentation-4A90E2?style=for-the-badge" alt="Documentation"></a>
 <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/📊_Dashboard-2EA44F?style=for-the-badge" alt="Dashboard"></a>
 <a href="https://discord.gg/Pds3gBmKMH"><img src="https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge" alt="Discord"></a>
 <a href="https://www.youtube.com/@oxylabs"><img src="https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge" alt="YouTube"></a>
 
-Free Trial Oxylabs [private proxies](https://oxylabs.io/products/private-proxies) offer dedicated IP addresses for exclusive use, ensuring optimal privacy, security, and performance. Ideal for web scraping and data collection
+Free Trial Oxylabs [private proxies](https://oxylabs.io/products/private-proxies?utm_source=github&utm_medium=referral&utm_content=private-proxies&groupid=877) offer dedicated IP addresses for exclusive use, ensuring optimal privacy, security, and performance. Ideal for web scraping and data collection
 
 
 ### What is a private proxy?
@@ -28,7 +28,7 @@ Overcome geo-limitations with 2M+ private IP pool in 188 countries. Access conte
 Face little to no risk of having your personal information compromised. Private proxies will always show up as IP addresses different from your usual ones. Residential private proxies will provide an additional layer of privacy as it will seem like a regular internet user is browsing the Internet.
 
 
-[![Private proxy location](https://github.com/oxylabs/private-proxies/assets/103110131/10945f76-0e47-4d41-8b22-87be5146d300)](https://oxylabs.io/location-proxy/china)
+[![Private proxy location](https://github.com/oxylabs/private-proxies/assets/103110131/10945f76-0e47-4d41-8b22-87be5146d300)](https://oxylabs.io/location-proxy/china?utm_source=github&utm_medium=referral&utm_content=private-proxies&utm_campaign=banner&groupid=877)
 
 ## Smart features for block-free web scraping
 
@@ -42,7 +42,7 @@ Face little to no risk of having your personal information compromised. Private 
 
 # Unlock any target with Oxylabs private proxies
 
-### [Dedicated Datacenter Proxies](https://oxylabs.io/products/datacenter-proxies/dedicated-datacenter-proxies)
+### [Dedicated Datacenter Proxies](https://oxylabs.io/products/datacenter-proxies/dedicated-datacenter-proxies?utm_source=github&utm_medium=referral&utm_content=private-proxies&groupid=877)
 
 High-performance private proxy servers with an attractive price point for speedy data extraction on a large scale. These proxies originate from hosting services. Dedicated Datacenter private IPs are perfect when traffic-intensive activities, such as email protection or market research, are being performed.
 
@@ -51,7 +51,7 @@ High-performance private proxy servers with an attractive price point for speedy
 - Unlimited bandwidth
 
 
-### [Static Residential Proxies](https://oxylabs.io/products/static-residential-proxies) 
+### [Static Residential Proxies](https://oxylabs.io/products/static-residential-proxies?utm_source=github&utm_medium=referral&utm_content=private-proxies&groupid=877) 
 
 Private Residential Proxies combine the best features of Residential and Datacenter Proxy servers for top-tier uptime. They are hosted on real, physical machines and provide exclusive IPs, making it easier to imitate a real user’s online behavior. They are the best choice for ad verification, pricing data gathering, and many other online business activities.
 
